@@ -1,0 +1,8 @@
+{
+  "name": "es-features",
+  "version": "1.0.0",
+  "description": "Collection of ECMAScript features",
+  "repository": "https://github.com/lean-stack/es-features.git",
+  "author": "Micha Alt <mail@lean-stack.de>",
+  "license": "MIT"
+}
